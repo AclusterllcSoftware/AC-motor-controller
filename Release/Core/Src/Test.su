@@ -1,0 +1,2 @@
+Test.c:15:6:Test_Init	16	static
+Test.c:56:6:Test_Handler	16	static

@@ -1,0 +1,4 @@
+OD_PWM.c:30:6:OD_PWM_InitTriac	8	static
+OD_PWM.c:55:6:OD_PWM_CalcTriacPWM	24	static
+OD_PWM.c:75:6:OD_PWM_RegulateTriacPWM	16	static
+OD_PWM.c:98:6:OD_PWM_GenTriacPWM	16	static
